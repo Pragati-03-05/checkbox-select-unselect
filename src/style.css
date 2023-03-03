@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.test {
+  background-color: chartreuse;
+}
+.black {
+  background-color: rgb(236, 135, 222);
+}
